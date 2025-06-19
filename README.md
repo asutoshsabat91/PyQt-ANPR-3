@@ -48,16 +48,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/146652416-5e4c3c2b-6b7e-4b2e-8e2e-2e7e7e7e7e7e.png" width="600" alt="ANPR GUI Screenshot">
-  <br>
-  <em>Dark-themed, professional interface with real-time detection and dashboard</em>
-</p>
-
----
-
 ## 📁 Project Structure
 
 ```
